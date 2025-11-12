@@ -1,5 +1,4 @@
 let circulo = document.querySelector(".circulo")
-let imagemCopo = document.querySelector(".imagem-copo")
 
 function mudarCor(cor){
 
